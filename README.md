@@ -2,7 +2,7 @@
 
 ### A Cross-Cultural and Interdisciplinary Framework for Corporate Governance
 
-![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/bridge_directors_duties.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/geometries_directors.jpg?raw=true)
 
 by Peter Kahl, 11 June 2025\
 2nd Edition 17 August 2025
