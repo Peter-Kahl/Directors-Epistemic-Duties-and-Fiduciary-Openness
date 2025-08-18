@@ -1,6 +1,8 @@
 # Directors’ Epistemic Duties and Fiduciary Openness
 
-### A Cross-Cultural and Interdisciplinary Framework for Corporate Governance
+### Good boards manage finance and risk. / Great boards manage knowledge.
+
+#### A Cross-Cultural and Interdisciplinary Framework for Corporate Governance
 
 ![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/geometries_directors.jpg?raw=true)
 
@@ -33,7 +35,7 @@ fiduciary duties, epistemic openness, epistemic justice, fiduciary ethics, stake
 ### Cite this work:
 
 ```
-Peter Kahl, ‘Directors’ Epistemic Duties and Fiduciary Openness: A Cross-Cultural and Interdisciplinary Framework for Corporate Governance’ (2nd edn, Lex et Ratio Ltd, 2025) <https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness>
+Peter Kahl, Directors’ Epistemic Duties and Fiduciary Openness: A Cross-Cultural and Interdisciplinary Framework for Corporate Governance (2nd edn, Lex et Ratio Ltd, 2025) <https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness>
 ```
 
 ### Publisher & Licence
