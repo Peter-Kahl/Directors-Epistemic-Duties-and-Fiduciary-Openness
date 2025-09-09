@@ -4,12 +4,11 @@
 
 #### A Cross-Cultural and Interdisciplinary Framework for Corporate Governance
 
+by Peter Kahl, 11 June 2025
+
+DOI: 10.13140/RG.2.2.28155.17449
+
 ![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/geometries_directors.jpg?raw=true)
-
-by Peter Kahl, 11 June 2025\
-2nd Edition 17 August 2025
-
----
 
 ### Abstract
 
@@ -20,7 +19,16 @@ I explicitly counter Abraham Singer’s claim that Rawlsian principles of justic
 Complementing this, I synthesise global philosophical traditions—including Confucian relational ethics, Daoist non-coercive governance, Buddhist mindfulness, Islamic shura (consultation), Hebrew stewardship, Hindu dharma and jnana, Christian servant leadership, Māori relational accountability and stewardship, and Ubuntu’s collective epistemic responsibility—offering culturally nuanced, ethically robust guidance for practice.
 
 A comparative analysis of fiduciary regimes in the UK, US (Delaware), EU/OECD, and Australia reveals systemic epistemic deficiencies. I propose targeted reforms, including structured stakeholder consultations, transparent documentation standards, clear accountability mechanisms, and director training.
+
 The thesis thus expands traditional fiduciary conceptions, offering clear pathways toward ethically accountable, inclusive, and epistemically robust corporate governance.
+
+### Acknowledgements
+
+This paper is part of a wider research programme on fiduciary-epistemic governance. I am grateful to colleagues, interlocutors, and readers across philosophy, law, and higher education who have challenged and refined these ideas.
+
+### Working Paper Status
+
+This is a working paper circulated for discussion and comment. It represents ongoing research and is intended to stimulate debate. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project _Beyond Epistemic Clientelism_.
 
 ### Keywords
 
@@ -35,7 +43,7 @@ fiduciary duties, epistemic openness, epistemic justice, fiduciary ethics, stake
 ### Cite this work:
 
 ```
-Peter Kahl, Directors’ Epistemic Duties and Fiduciary Openness: A Cross-Cultural and Interdisciplinary Framework for Corporate Governance (2nd edn, Lex et Ratio Ltd, 2025) <https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness>
+Peter Kahl, Directors’ Epistemic Duties and Fiduciary Openness: A Cross-Cultural and Interdisciplinary Framework for Corporate Governance (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness> DOI: 10.13140/RG.2.2.28155.17449
 ```
 
 ### Publisher & Licence
