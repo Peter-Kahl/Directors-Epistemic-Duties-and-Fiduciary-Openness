@@ -2,7 +2,7 @@
 
 ### Good boards manage finance and risk. / Great boards manage knowledge.
 
-#### A Cross-Cultural and Interdisciplinary Framework for Corporate Governance
+#### _A Cross-Cultural and Interdisciplinary Framework for Corporate Governance_
 
 by Peter Kahl, 11 June 2025
 
