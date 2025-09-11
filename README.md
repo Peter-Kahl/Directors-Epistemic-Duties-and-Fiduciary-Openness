@@ -36,14 +36,14 @@ fiduciary duties, epistemic openness, epistemic justice, fiduciary ethics, stake
 
 ---
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download Latest Edition
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/master/Kahl_P_Directors_Epistemic_Duties_and_Fiduciary_Openness_v2_17-AUG-2025.pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
-Peter Kahl, Directors’ Epistemic Duties and Fiduciary Openness: A Cross-Cultural and Interdisciplinary Framework for Corporate Governance (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness> DOI: 10.13140/RG.2.2.28155.17449
+Kahl, P. (2025). Directors’ epistemic duties and fiduciary openness: A cross-cultural and interdisciplinary framework for corporate governance (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.28155.17449
 ```
 
 ### Publisher & Licence
