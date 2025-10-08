@@ -22,13 +22,13 @@ A comparative analysis of fiduciary regimes in the UK, US (Delaware), EU/OECD, a
 
 The thesis thus expands traditional fiduciary conceptions, offering clear pathways toward ethically accountable, inclusive, and epistemically robust corporate governance.
 
-## Working Paper Status
-
-This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
-
 ## Keywords
 
 fiduciary duties, epistemic openness, epistemic justice, fiduciary ethics, stakeholder theory, Rawlsian justice, capability approach, cross-cultural governance, Confucian ethics, Daoism (wu-wei), Buddhist mindfulness, Islamic shura, Hebrew stewardship, Hindu dharma and jnana, Christian servant leadership, Māori whanaungatanga and kaitiakitanga, Ubuntu philosophy, corporate governance reform, ethical accountability, stakeholder engagement
+
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## Download
 
