@@ -2,15 +2,15 @@
 
 ### Good boards manage finance and risk. / Great boards manage knowledge.
 
-#### _A Cross-Cultural and Interdisciplinary Framework for Corporate Governance_
+_(A Cross-Cultural and Interdisciplinary Framework for Corporate Governance)_
 
-by Peter Kahl, 11 June 2025
+by Peter Kahl, 11 June 2025; v2: 2025-08-17
 
-DOI: 10.13140/RG.2.2.28155.17449
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.28155.17449-blue.svg)](https://doi.org/10.13140/RG.2.2.28155.17449)
 
 ![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/geometries_directors.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 In this thesis, I develop a normative and operational framework for embedding epistemic openness within fiduciary corporate governance, arguing that directors have distinct epistemic duties requiring systematic integration of diverse stakeholder knowledge. Drawing on fiduciary ethics, epistemic justice theory, stakeholder theory, and Sen’s capability approach, I demonstrate that meaningful stakeholder participation is central to organisational legitimacy, innovation, and sustainability.
 
@@ -22,35 +22,27 @@ A comparative analysis of fiduciary regimes in the UK, US (Delaware), EU/OECD, a
 
 The thesis thus expands traditional fiduciary conceptions, offering clear pathways toward ethically accountable, inclusive, and epistemically robust corporate governance.
 
-### Acknowledgements
+## Working Paper Status
 
-This paper is part of a wider research programme on fiduciary-epistemic governance. I am grateful to colleagues, interlocutors, and readers across philosophy, law, and higher education who have challenged and refined these ideas.
+This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
 
-### Working Paper Status
-
-This is a working paper circulated for discussion and comment. It represents ongoing research and is intended to stimulate debate. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project _Beyond Epistemic Clientelism_.
-
-### Keywords
+## Keywords
 
 fiduciary duties, epistemic openness, epistemic justice, fiduciary ethics, stakeholder theory, Rawlsian justice, capability approach, cross-cultural governance, Confucian ethics, Daoism (wu-wei), Buddhist mindfulness, Islamic shura, Hebrew stewardship, Hindu dharma and jnana, Christian servant leadership, Māori whanaungatanga and kaitiakitanga, Ubuntu philosophy, corporate governance reform, ethical accountability, stakeholder engagement
 
----
-
-### Download Latest Edition
+## Download
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/master/Kahl_P_Directors_Epistemic_Duties_and_Fiduciary_Openness_v2_17-AUG-2025.pdf)
 
-### Cite this work
+## Cite this work
 
-```
-Kahl, P. (2025). Directors’ epistemic duties and fiduciary openness: A cross-cultural and interdisciplinary framework for corporate governance (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.28155.17449
-```
+Kahl, P. (2025). _Directors’ epistemic duties and fiduciary openness: A cross-cultural and interdisciplinary framework for corporate governance_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness DOI: https://doi.org/10.13140/RG.2.2.28155.17449
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in Great Britain by Peter Kahl on 11 June 2025.\
-2nd edition published by Lex et Ratio Ltd on 17 August 2025.
+v2 published by Lex et Ratio Ltd on 17 August 2025.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-
-You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
