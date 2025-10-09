@@ -4,9 +4,9 @@
 
 _(A Cross-Cultural and Interdisciplinary Framework for Corporate Governance)_
 
-by Peter Kahl, 11 June 2025; v2: 2025-08-17
+by Peter Kahl, 2025-06-11; v2: 2025-08-17
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.28155.17449-blue.svg)](https://doi.org/10.13140/RG.2.2.28155.17449)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.28155.17449-blue.svg)](https://doi.org/10.13140/RG.2.2.28155.17449) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness/blob/main/geometries_directors.jpg?raw=true)
 
@@ -40,8 +40,8 @@ Kahl, P. (2025). _Directors’ epistemic duties and fiduciary openness: A cross-
 
 ## Publisher & Licence
 
-First published in Great Britain by Peter Kahl on 11 June 2025.\
-v2 published by Lex et Ratio Ltd on 17 August 2025.
+First published in Great Britain by Peter Kahl, 2025-06-11.\
+v2 published by Lex et Ratio Ltd, 2025-08-17.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
